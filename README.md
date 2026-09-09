@@ -1,0 +1,2 @@
+# multi-agentic-customer-retention-intelligence-system
+Building a Multi-Agent Customer Retention Intelligence System using LangChain &amp; LangGraph. The system takes a Customer ID as input and uses three specialized, tool-bound sub-agents plus a Supervisor to profile the customer, assess churn risk, retrieve appropriate retention strategy, and generate a structured Next Best Action (NBA) recommendation.
